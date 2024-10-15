@@ -1,1 +1,2 @@
-utilizando o github nas aulas  de GNU/linux
+utilizando o Github nas aulas  de GNU/linux
+criando e editando arquivos no Github
